@@ -1,0 +1,10 @@
+#import <PromotedContentProxy/APNSURLSessionDemultiplexerManager.h>
+#import <PromotedContentProxy/APProxyURLCredentialService.h>
+#import <PromotedContentProxy/APNSURLSessionTaskInfo.h>
+#import <PromotedContentProxy/APProxySessionConfigurationProvider.h>
+#import <PromotedContentProxy/APProxyProtocolProperties.h>
+#import <PromotedContentProxy/APWebViewConfiguration.h>
+#import <PromotedContentProxy/APProxyProtocol.h>
+#import <PromotedContentProxy/APLongProxyCredentialsUtils.h>
+#import <PromotedContentProxy/APNSURLSessionDemultiplexer.h>
+#import <PromotedContentProxy/APProxyURLUtilities.h>

@@ -1,0 +1,14 @@
+#import <IOUSBHost/IOUSBHostCIPortStateMachine.h>
+#import <IOUSBHost/IOUSBHostDevice.h>
+#import <IOUSBHost/IOUSBHostCIEndpointStateMachine.h>
+#import <IOUSBHost/IOUSBHostStream.h>
+#import <IOUSBHost/IOUSBHostCIDeviceStateMachine.h>
+#import <IOUSBHost/IOUSBHostInterface.h>
+#import <IOUSBHost/IOUSBHostCIControllerStateMachine.h>
+#import <IOUSBHost/IOUSBHostControllerInterface.h>
+#import <IOUSBHost/IOUSBHostPipe.h>
+#import <IOUSBHost/IOUSBHostInterestNotificationReference.h>
+#import <IOUSBHost/IOUSBHostObject.h>
+#import <IOUSBHost/IOBufferMutableData.h>
+#import <IOUSBHost/IOUSBHostIOSource.h>
+#import <IOUSBHost/IOUSBHostInterestNotifier.h>

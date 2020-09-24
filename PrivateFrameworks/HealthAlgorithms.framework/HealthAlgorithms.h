@@ -1,0 +1,12 @@
+#import <HealthAlgorithms/HAPreferences.h>
+#import <HealthAlgorithms/HAPPGExporter.h>
+#import <HealthAlgorithms/HAECGSample.h>
+#import <HealthAlgorithms/HAECGExporter.h>
+#import <HealthAlgorithms/HAMenstrualAlgorithmsDayInput.h>
+#import <HealthAlgorithms/HAMenstrualAlgorithmsStats.h>
+#import <HealthAlgorithms/HAMenstrualAlgorithmsPrediction.h>
+#import <HealthAlgorithms/HAMenstrualAlgorithmsAnalysis.h>
+#import <HealthAlgorithms/HAMenstrualAlgorithmsDayStreamProcessorConfig.h>
+#import <HealthAlgorithms/HAMenstrualAlgorithmsDayStreamProcessor.h>
+#import <HealthAlgorithms/HAMenstrualAlgorithmsHistoricalCycle.h>
+#import <HealthAlgorithms/HAMenstrualAlgorithmsHistoricalAnalyzer.h>

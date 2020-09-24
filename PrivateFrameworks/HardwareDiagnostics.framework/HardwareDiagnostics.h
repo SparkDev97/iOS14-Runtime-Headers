@@ -1,0 +1,13 @@
+#import <HardwareDiagnostics/HDLab.h>
+#import <HardwareDiagnostics/HDReport.h>
+#import <HardwareDiagnostics/HDSimpleDiagnostic.h>
+#import <HardwareDiagnostics/HDAnalysisResult.h>
+#import <HardwareDiagnostics/HDDimensionlessUnit.h>
+#import <HardwareDiagnostics/HDExperimentResult.h>
+#import <HardwareDiagnostics/HDBound.h>
+#import <HardwareDiagnostics/HDLimit.h>
+#import <HardwareDiagnostics/HDMeasuredResult.h>
+#import <HardwareDiagnostics/HDStringParameter.h>
+#import <HardwareDiagnostics/HDNumberParameter.h>
+#import <HardwareDiagnostics/HDKeyedObjectParameter.h>
+#import <HardwareDiagnostics/HDDescription.h>

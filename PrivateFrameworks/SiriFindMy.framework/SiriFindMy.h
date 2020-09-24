@@ -1,0 +1,14 @@
+#import <SiriFindMy/SiriFindMy.NearbyScanSession.h>
+#import <SiriFindMy/SiriFindMy.SFMContactDataProviderImpl.h>
+#import <SiriFindMy/SiriFindMy.BluetoothStateProvider.h>
+#import <SiriFindMy/SiriFindMy.SFMClientSession.h>
+#import <SiriFindMy/SiriFindMy.FMIPManagerWrapperImpl.h>
+#import <SiriFindMy/SiriFindMy.SFMDeviceMappingProvider.h>
+#import <SiriFindMy/SiriFindMy.SFMCachingContactDataProvider.h>
+#import <SiriFindMy/SiriFindMy.SFMClientSessionProvider.h>
+#import <SiriFindMy/FindDeviceAndPlaySoundIntent.h>
+#import <SiriFindMy/FindDeviceAndPlaySoundIntentResponse.h>
+#import <SiriFindMy/FindDeviceAndPlaySoundDevicesResolutionResult.h>
+#import <SiriFindMy/DeviceLocalityResolutionResult.h>
+#import <SiriFindMy/DeviceDetail.h>
+#import <SiriFindMy/DeviceDetailResolutionResult.h>

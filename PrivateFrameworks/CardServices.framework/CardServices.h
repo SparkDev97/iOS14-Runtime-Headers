@@ -1,0 +1,10 @@
+#import <CardServices/_CRSServiceBundleManager.h>
+#import <CardServices/_CRSPassthroughService.h>
+#import <CardServices/CRSResponse.h>
+#import <CardServices/CRSIdentifiedServiceRegistry.h>
+#import <CardServices/_CRSServiceBundle.h>
+#import <CardServices/CRSCardResponse.h>
+#import <CardServices/CRSCardRequest.h>
+#import <CardServices/_CRSCardServiceBundleManager.h>
+#import <CardServices/_CRSCardServiceBundle.h>
+#import <CardServices/CRSRequest.h>

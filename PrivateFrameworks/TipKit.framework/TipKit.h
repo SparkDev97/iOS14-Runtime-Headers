@@ -1,0 +1,9 @@
+#import <TipKit/TPKTipContentCollectionViewCell.h>
+#import <TipKit/TPKContent.h>
+#import <TipKit/TPKTipContent.h>
+#import <TipKit/TPKContentViewController.h>
+#import <TipKit/TPKContentView.h>
+#import <TipKit/TPKContentController.h>
+#import <TipKit/TPKTipContentCollectionHeaderView.h>
+#import <TipKit/TPKTipContentTableViewCell.h>
+#import <TipKit/TPKTipContentHintView.h>

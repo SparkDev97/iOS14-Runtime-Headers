@@ -1,0 +1,3 @@
+#import <SiriPlaybackControlSupport/SiriPlaybackControlSupport.HomeManager.h>
+#import <SiriPlaybackControlSupport/SiriPlaybackControlSupport.PlaybackController.h>
+#import <SiriPlaybackControlSupport/SiriPlaybackControlSupport.DeviceSelector.h>

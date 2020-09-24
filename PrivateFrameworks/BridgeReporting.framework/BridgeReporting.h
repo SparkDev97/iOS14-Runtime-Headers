@@ -1,0 +1,9 @@
+#import <BridgeReporting/BRSetupControllerDetails.h>
+#import <BridgeReporting/BRSetupControllerTracker.h>
+#import <BridgeReporting/BRRTCPairingReportManager.h>
+#import <BridgeReporting/BRRTCSession.h>
+#import <BridgeReporting/BRRTCPairingMetric.h>
+#import <BridgeReporting/BRRTCMigrationReportManager.h>
+#import <BridgeReporting/BRReportManager.h>
+#import <BridgeReporting/BRRTCMigrationMetricDeviceDetails.h>
+#import <BridgeReporting/BRRTCMigrationMetric.h>

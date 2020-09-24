@@ -1,0 +1,12 @@
+#import <ProactiveMagicalMoments/PMMConstants.h>
+#import <ProactiveMagicalMoments/PMMContextHelper.h>
+#import <ProactiveMagicalMoments/PMMDataProtectionMonitor.h>
+#import <ProactiveMagicalMoments/PMMPredictionNotification.h>
+#import <ProactiveMagicalMoments/PMMPredictor.h>
+#import <ProactiveMagicalMoments/PMMMusicContainer.h>
+#import <ProactiveMagicalMoments/PMMPrediction.h>
+#import <ProactiveMagicalMoments/PMMPredictionItem.h>
+#import <ProactiveMagicalMoments/PMMTypes.h>
+#import <ProactiveMagicalMoments/PMMAudioDisconnectListener.h>
+#import <ProactiveMagicalMoments/PMMTelephonyConnection.h>
+#import <ProactiveMagicalMoments/PMMMusicStateProcessor.h>

@@ -1,0 +1,1 @@
+#import <PassKitServices/PKServicePaymentTransactionImageGenerator.h>

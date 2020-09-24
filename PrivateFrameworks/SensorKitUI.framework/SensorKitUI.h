@@ -1,0 +1,17 @@
+#import <SensorKitUI/SRAuthorizationPromptPresentationController.h>
+#import <SensorKitUI/SRSensorsCache.h>
+#import <SensorKitUI/SRRemoteAuthorizationPromptViewController.h>
+#import <SensorKitUI/SRSensorDescription.h>
+#import <SensorKitUI/SRAuthorizationGroup.h>
+#import <SensorKitUI/SRAuthorizationCategoryGroupViewController.h>
+#import <SensorKitUI/SRAppUsageCell.h>
+#import <SensorKitUI/SRSampleViewController.h>
+#import <SensorKitUI/SRTCCStorePassThrough.h>
+#import <SensorKitUI/SRAuthorizationStore.h>
+#import <SensorKitUI/SRResearchDataPerCategoryViewController.h>
+#import <SensorKitUI/SRAuthorizationCategoryDetailCell.h>
+#import <SensorKitUI/SRFollowUp.h>
+#import <SensorKitUI/SRAuthorizationClient.h>
+#import <SensorKitUI/SRAuthorizationCell.h>
+#import <SensorKitUI/SRResearchDaysViewController.h>
+#import <SensorKitUI/SRDetailedTableCell.h>

@@ -1,0 +1,12 @@
+#import <PassKit/PKAddPassButton.h>
+#import <PassKit/PKPaymentSetupController.h>
+#import <PassKit/PKRemoteAddPaymentPassViewController.h>
+#import <PassKit/PKAddPaymentPassViewController.h>
+#import <PassKit/PKPaymentAuthorizationCoreViewController.h>
+#import <PassKit/PKPaymentAuthorizationViewController.h>
+#import <PassKit/PKPaymentButton.h>
+#import <PassKit/PKPaymentAuthorizationController.h>
+#import <PassKit/PKPaymentSetupViewController.h>
+#import <PassKit/PKRemotePaymentSetupViewController.h>
+#import <PassKit/PKDisbursementAuthorizationController.h>
+#import <PassKit/PKExtensionRemoteViewController.h>

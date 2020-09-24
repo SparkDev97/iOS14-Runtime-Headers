@@ -1,0 +1,17 @@
+#import <MessageSecurity/MSOID.h>
+#import <MessageSecurity/MSAlgorithmIdentifier.h>
+#import <MessageSecurity/MSCMSSignedData.h>
+#import <MessageSecurity/MSDecodeOptions.h>
+#import <MessageSecurity/MSCMSMutableAttributeArray.h>
+#import <MessageSecurity/MSCMSAttribute.h>
+#import <MessageSecurity/MSCMSContentTypeAttribute.h>
+#import <MessageSecurity/MSCMSMessageDigestAttribute.h>
+#import <MessageSecurity/MSCMSSigningTimeAttribute.h>
+#import <MessageSecurity/MSCMSCountersignatureAttribute.h>
+#import <MessageSecurity/MSCMSSMIMECapabilitiesAttribute.h>
+#import <MessageSecurity/MSCMSEncryptionKeyPreferenceAttribute.h>
+#import <MessageSecurity/MSCMSTimestampAttribute.h>
+#import <MessageSecurity/MSCMSAppleHashAgilityAttribute.h>
+#import <MessageSecurity/MSError.h>
+#import <MessageSecurity/MSCMSContentInfo.h>
+#import <MessageSecurity/MSCMSSignerInfo.h>

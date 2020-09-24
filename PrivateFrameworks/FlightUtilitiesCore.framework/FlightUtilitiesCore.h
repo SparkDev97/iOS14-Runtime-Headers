@@ -1,0 +1,10 @@
+#import <FlightUtilitiesCore/FUUtils.h>
+#import <FlightUtilitiesCore/FUFlight.h>
+#import <FlightUtilitiesCore/FUFlightLeg.h>
+#import <FlightUtilitiesCore/FUFlightCodeShare.h>
+#import <FlightUtilitiesCore/FUAirline.h>
+#import <FlightUtilitiesCore/FUStepTime.h>
+#import <FlightUtilitiesCore/FUFlightStep.h>
+#import <FlightUtilitiesCore/FUFlightFactory.h>
+#import <FlightUtilitiesCore/FUAirport.h>
+#import <FlightUtilitiesCore/FUFlightFactory_Parsec.h>

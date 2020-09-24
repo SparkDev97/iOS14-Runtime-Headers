@@ -1,0 +1,11 @@
+#import <TCC/OS_tcc_object.h>
+#import <TCC/OS_tcc_identity.h>
+#import <TCC/OS_tcc_credential.h>
+#import <TCC/OS_tcc_attributed_entity.h>
+#import <TCC/OS_tcc_authorization_record.h>
+#import <TCC/OS_tcc_message_options.h>
+#import <TCC/OS_tcc_service.h>
+#import <TCC/OS_tcc_server.h>
+#import <TCC/OS_tcc_runtime.h>
+#import <TCC/OS_tcc_events_filter.h>
+#import <TCC/OS_tcc_events_subscription.h>

@@ -1,0 +1,11 @@
+#import <SpeechRecognitionCommandServices/SRCSSpokenCommandUtilities.h>
+#import <SpeechRecognitionCommandServices/CMDPGrammarData.h>
+#import <SpeechRecognitionCommandServices/CMDPGrammar.h>
+#import <SpeechRecognitionCommandServices/SRCSCommandStringsTable.h>
+#import <SpeechRecognitionCommandServices/SRCSTextEditing.h>
+#import <SpeechRecognitionCommandServices/SRCSSpokenCommand.h>
+#import <SpeechRecognitionCommandServices/CMDPResult.h>
+#import <SpeechRecognitionCommandServices/SRCSCommandRecognitionSystem.h>
+#import <SpeechRecognitionCommandServices/SRCSCommandRecognizer.h>
+#import <SpeechRecognitionCommandServices/SRCSPhraseMatchResult.h>
+#import <SpeechRecognitionCommandServices/SRCSLexiconManager.h>

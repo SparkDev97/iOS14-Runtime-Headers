@@ -1,0 +1,11 @@
+#import <CoreText/_CTGlyphStorage.h>
+#import <CoreText/CTFeatureSetting.h>
+#import <CoreText/_CTNativeGlyphStorage.h>
+#import <CoreText/_CTSplicedFontKey.h>
+#import <CoreText/_CTGCommonCache.h>
+#import <CoreText/_CTMutableGlyphStorage.h>
+#import <CoreText/_CTFontFallbacksArray.h>
+#import <CoreText/CTGlyphStorageInterface.h>
+#import <CoreText/NSRubyAnnotation.h>
+#import <CoreText/NSCTRubyAnnotation.h>
+#import <CoreText/FontAssetDownloadManager.h>

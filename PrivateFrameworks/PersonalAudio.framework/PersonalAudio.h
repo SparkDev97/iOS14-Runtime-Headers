@@ -1,0 +1,9 @@
+#import <PersonalAudio/PAStimulus.h>
+#import <PersonalAudio/PAAccessoryManager.h>
+#import <PersonalAudio/PAEnrollmentNode.h>
+#import <PersonalAudio/PASettings.h>
+#import <PersonalAudio/PersonalAudioSettings.h>
+#import <PersonalAudio/PAAudiogramUtilities.h>
+#import <PersonalAudio/PAConfiguration.h>
+#import <PersonalAudio/PAEnrollment.h>
+#import <PersonalAudio/PADatabaseManager.h>

@@ -1,0 +1,11 @@
+#import <CoreMIDI/MIDICIDeviceInfo.h>
+#import <CoreMIDI/MIDICIProfile.h>
+#import <CoreMIDI/MIDICIProfileState.h>
+#import <CoreMIDI/MIDICISession.h>
+#import <CoreMIDI/BLEMIDIAccessor.h>
+#import <CoreMIDI/MIDICIDiscoveredNode.h>
+#import <CoreMIDI/MIDICIDiscoveryManager.h>
+#import <CoreMIDI/MIDICIResponder.h>
+#import <CoreMIDI/MIDINetworkSession.h>
+#import <CoreMIDI/MIDINetworkHost.h>
+#import <CoreMIDI/MIDINetworkConnection.h>

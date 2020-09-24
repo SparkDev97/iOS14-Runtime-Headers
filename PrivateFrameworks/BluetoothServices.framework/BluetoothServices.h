@@ -1,0 +1,12 @@
+#import <BluetoothServices/BTCloudServicesClient.h>
+#import <BluetoothServices/BTAudioRoutingRequest.h>
+#import <BluetoothServices/BTAudioRoutingResponse.h>
+#import <BluetoothServices/BTAudioSession.h>
+#import <BluetoothServices/BTBluetoothPairingSession.h>
+#import <BluetoothServices/BTServicesClient.h>
+#import <BluetoothServices/BTCloudAccountInfo.h>
+#import <BluetoothServices/BTShareAudioSessionClient.h>
+#import <BluetoothServices/BTBannerUISession.h>
+#import <BluetoothServices/BTCloudDevice.h>
+#import <BluetoothServices/BTCloudDeviceSupportInformation.h>
+#import <BluetoothServices/BTMagicPairingSettings.h>

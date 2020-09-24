@@ -1,0 +1,13 @@
+#import <InAppMessagesCore/IAMImpression.h>
+#import <InAppMessagesCore/IAMPresentationPolicy.h>
+#import <InAppMessagesCore/IAMDecomposedKey.h>
+#import <InAppMessagesCore/IAMEvent.h>
+#import <InAppMessagesCore/IAMCountableEvent.h>
+#import <InAppMessagesCore/IAMValueEvent.h>
+#import <InAppMessagesCore/IAMFigaroEvent.h>
+#import <InAppMessagesCore/IAMApplicationDidBecomeActiveEvent.h>
+#import <InAppMessagesCore/IAMContent.h>
+#import <InAppMessagesCore/IAMMessage.h>
+#import <InAppMessagesCore/IAMAction.h>
+#import <InAppMessagesCore/IAMTempTestMessages.h>
+#import <InAppMessagesCore/IAMImage.h>

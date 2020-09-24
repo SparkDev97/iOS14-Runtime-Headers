@@ -1,0 +1,14 @@
+#import <SPShared/SPShared.NetworkReachability.h>
+#import <SPShared/SPShared.UserDefaultsObserver.h>
+#import <SPShared/SPShared.DispatchTimer.h>
+#import <SPShared/SPShared.DarwinNotificationManager.h>
+#import <SPShared/_TtC8SPSharedP33_A1F6AB55F9BFA26527C1C12C0252530F17CancellationToken.h>
+#import <SPShared/_TtC8SPSharedP33_A1F6AB55F9BFA26527C1C12C0252530F19_ImmediateScheduler.h>
+#import <SPShared/_TtC8SPSharedP33_A1F6AB55F9BFA26527C1C12C0252530F20_MainThreadScheduler.h>
+#import <SPShared/_TtC8SPSharedP33_A1F6AB55F9BFA26527C1C12C0252530F15_QueueScheduler.h>
+#import <SPShared/_TtC8SPSharedP33_A1F6AB55F9BFA26527C1C12C0252530F24_OperationQueueScheduler.h>
+#import <SPShared/SPShared.Lock.h>
+#import <SPShared/SPShared.DarwinNotificationHelper.h>
+#import <SPShared/SPShared.PerformanceCapture.h>
+#import <SPShared/SPShared.XPCSessionManager.h>
+#import <SPShared/_TtC8SPSharedP33_4DFE191C45A702EAD1213F8D530A798030_XPCListenerDelegateTrampoline.h>

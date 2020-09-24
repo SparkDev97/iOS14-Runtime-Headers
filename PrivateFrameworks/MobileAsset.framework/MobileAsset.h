@@ -1,0 +1,13 @@
+#import <MobileAsset/MAProgressHandler.h>
+#import <MobileAsset/MAAbsoluteAssetId.h>
+#import <MobileAsset/MAAsset.h>
+#import <MobileAsset/MAAssetQuery.h>
+#import <MobileAsset/ASAsset.h>
+#import <MobileAsset/ASAssetQuery.h>
+#import <MobileAsset/MAXpcManager.h>
+#import <MobileAsset/MAAssetDiff.h>
+#import <MobileAsset/MADownloadOptions.h>
+#import <MobileAsset/MAMsuDownloadOptions.h>
+#import <MobileAsset/MADownloadConfig.h>
+#import <MobileAsset/MAProgressNotification.h>
+#import <MobileAsset/MAXpcConnection.h>

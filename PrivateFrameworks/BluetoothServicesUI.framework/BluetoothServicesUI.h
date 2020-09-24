@@ -1,0 +1,10 @@
+#import <BluetoothServicesUI/BTSharedAudioDeviceInfo.h>
+#import <BluetoothServicesUI/BTShareAudioViewController.h>
+#import <BluetoothServicesUI/BTShareAudioBaseViewController.h>
+#import <BluetoothServicesUI/BTShareAudioBringCloseViewController.h>
+#import <BluetoothServicesUI/BTShareAudioConfirmViewController.h>
+#import <BluetoothServicesUI/BTShareAudioHoldButtonViewController.h>
+#import <BluetoothServicesUI/BTShareAudioConnectingViewController.h>
+#import <BluetoothServicesUI/BTShareAudioErrorViewController.h>
+#import <BluetoothServicesUI/BTHighlightButton.h>
+#import <BluetoothServicesUI/BTMediaPlayerView.h>

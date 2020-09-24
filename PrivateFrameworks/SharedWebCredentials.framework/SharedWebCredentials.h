@@ -1,0 +1,13 @@
+#import <SharedWebCredentials/_SWCPattern.h>
+#import <SharedWebCredentials/_SWCPatternList.h>
+#import <SharedWebCredentials/_SWCSubstitutionVariableList.h>
+#import <SharedWebCredentials/_SWCServiceSettings.h>
+#import <SharedWebCredentials/_SWCGeneration.h>
+#import <SharedWebCredentials/_SWCServiceSpecifier.h>
+#import <SharedWebCredentials/_SWCPrefs.h>
+#import <SharedWebCredentials/_SWCApplicationIdentifier.h>
+#import <SharedWebCredentials/_SWCServiceDetails.h>
+#import <SharedWebCredentials/_SWCPatternMatchingEngine.h>
+#import <SharedWebCredentials/_SWCPatternMatchingResult.h>
+#import <SharedWebCredentials/_SWCTrackingDomainInfo.h>
+#import <SharedWebCredentials/_SWCDomain.h>

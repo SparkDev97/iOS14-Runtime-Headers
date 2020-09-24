@@ -1,0 +1,9 @@
+#import <RespiratoryHealthDaemon/HDRPDailyAnalyticsReport.h>
+#import <RespiratoryHealthDaemon/HLHeartRateData.h>
+#import <RespiratoryHealthDaemon/HLOxygenSaturationMeasurement.h>
+#import <RespiratoryHealthDaemon/HLOxygenSaturationSession.h>
+#import <RespiratoryHealthDaemon/HDRespiratoryProfileExtension.h>
+#import <RespiratoryHealthDaemon/HDRPRespiratoryDailyAnalytics.h>
+#import <RespiratoryHealthDaemon/HDRPFeatureAvailabilityManager.h>
+#import <RespiratoryHealthDaemon/HDRespiratoryDaemonPlugin.h>
+#import <RespiratoryHealthDaemon/HDRPOxygenSaturationSessionServer.h>

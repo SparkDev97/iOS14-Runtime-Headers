@@ -1,0 +1,4 @@
+#import <InternalSwiftProtobuf/InternalSwiftProtobuf.DoubleParser.h>
+#import <InternalSwiftProtobuf/InternalSwiftProtobuf.AnyMessageStorage.h>
+#import <InternalSwiftProtobuf/_TtCV21InternalSwiftProtobuf27Google_Protobuf_FileOptionsP33_BD4C1D1A5DBF5507AE6AF16875FA18AB13_StorageClass.h>
+#import <InternalSwiftProtobuf/_TtC21InternalSwiftProtobufP33_4080DC12AFD47C35258F8A9684AEC70E10InternPool.h>

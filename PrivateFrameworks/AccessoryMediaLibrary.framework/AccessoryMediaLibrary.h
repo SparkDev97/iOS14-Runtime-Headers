@@ -1,0 +1,9 @@
+#import <AccessoryMediaLibrary/ACCMediaLibraryUpdatePlaylist.h>
+#import <AccessoryMediaLibrary/ACCMediaLibraryUpdateItem.h>
+#import <AccessoryMediaLibrary/ACCMediaLibraryUpdatePlaylistContentItem.h>
+#import <AccessoryMediaLibrary/ACCMediaLibraryUpdateLibraryInfo.h>
+#import <AccessoryMediaLibrary/ACCMediaLibraryInfo.h>
+#import <AccessoryMediaLibrary/_ACCMediaLibraryAccessoryPendingUpdateItem.h>
+#import <AccessoryMediaLibrary/ACCMediaLibraryAccessory.h>
+#import <AccessoryMediaLibrary/ACCMediaLibraryProvider.h>
+#import <AccessoryMediaLibrary/ACCMediaLibraryUpdatePlaylistContent.h>

@@ -1,0 +1,13 @@
+#import <WallpaperKit/WKLegacyWallpaperBundleLoader.h>
+#import <WallpaperKit/WKWallpaperBundle.h>
+#import <WallpaperKit/WKLiveWallpaper.h>
+#import <WallpaperKit/_WKSystemWallpaperCollection.h>
+#import <WallpaperKit/WKIndicatorView.h>
+#import <WallpaperKit/WKAbstractWallpaper.h>
+#import <WallpaperKit/WKWallpaperCollection.h>
+#import <WallpaperKit/WKWallpaperBundleCollection.h>
+#import <WallpaperKit/WKWallpaperBundleImporter.h>
+#import <WallpaperKit/WKDefaultWallpaperManager.h>
+#import <WallpaperKit/WKWallpaperCollectionsManager.h>
+#import <WallpaperKit/WKStillWallpaper.h>
+#import <WallpaperKit/WKDynamicWallpaper.h>

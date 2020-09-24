@@ -1,0 +1,16 @@
+#import <AutoLoop/AutoLoopStabilizer.h>
+#import <AutoLoop/PregateAnalyzer.h>
+#import <AutoLoop/PregateFeatureBuilder.h>
+#import <AutoLoop/LoopAudioComposer.h>
+#import <AutoLoop/StabilizeParamGenerator.h>
+#import <AutoLoop/IrisVideoMetadataExtractor.h>
+#import <AutoLoop/ExifMetadataExtractor.h>
+#import <AutoLoop/VideoReader.h>
+#import <AutoLoop/VideoReaderRand.h>
+#import <AutoLoop/LoopQuicktimeMetadata.h>
+#import <AutoLoop/VideoAccessIndex.h>
+#import <AutoLoop/VideoAccessIndexNorm.h>
+#import <AutoLoop/GIFBuilder.h>
+#import <AutoLoop/VideoContext.h>
+#import <AutoLoop/VideoWriter.h>
+#import <AutoLoop/StabilizeParams.h>

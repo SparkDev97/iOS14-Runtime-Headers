@@ -1,0 +1,10 @@
+#import <AssertionServices/BKSWorkspace.h>
+#import <AssertionServices/BKSAssertion.h>
+#import <AssertionServices/BKSProcessExitContext.h>
+#import <AssertionServices/BKSProcess.h>
+#import <AssertionServices/BKSTerminationContext.h>
+#import <AssertionServices/BKSProcessAssertion.h>
+#import <AssertionServices/BKSTerminationAssertionObserverManager.h>
+#import <AssertionServices/BKSTerminationAssertion.h>
+#import <AssertionServices/BKSApplicationStateMonitor.h>
+#import <AssertionServices/BKSLaunchdJobSpecification.h>

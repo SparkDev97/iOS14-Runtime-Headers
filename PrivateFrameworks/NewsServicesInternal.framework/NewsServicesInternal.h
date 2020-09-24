@@ -1,0 +1,17 @@
+#import <NewsServicesInternal/NSSExternalAnalyticsRequest.h>
+#import <NewsServicesInternal/NSSArticleView.h>
+#import <NewsServicesInternal/NSSExternalAnalyticsRequestMetadata.h>
+#import <NewsServicesInternal/NSSUserDefaultsDataDestructionItem.h>
+#import <NewsServicesInternal/NSSDataContainerDataDestructionItem.h>
+#import <NewsServicesInternal/NSSNewsAnalyticsEnvelopeTracker.h>
+#import <NewsServicesInternal/NSSArticleInternal.h>
+#import <NewsServicesInternal/NSSNewsAnalyticsEnvelopeDescriptor.h>
+#import <NewsServicesInternal/NSSNewsAnalyticsPBEventAccumulator.h>
+#import <NewsServicesInternal/NSSExternalAnalyticsPaneldentifierProvider.h>
+#import <NewsServicesInternal/NSSNewsAnalyticsSessionAnnotator.h>
+#import <NewsServicesInternal/NSSNewsAnalyticsEventAnnotator.h>
+#import <NewsServicesInternal/NSSBundleInternalLookupClass.h>
+#import <NewsServicesInternal/NSSNewsTerminationItem.h>
+#import <NewsServicesInternal/NSSNewsAnalyticsSubmitEnvelopesOperation.h>
+#import <NewsServicesInternal/NSSArticleViewControllerInternal.h>
+#import <NewsServicesInternal/NSSExternalAnalyticsEvent.h>

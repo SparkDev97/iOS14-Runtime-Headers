@@ -1,0 +1,17 @@
+#import <ShazamInsights/SQRegionServerResponseParser.h>
+#import <ShazamInsights/SQMediaItemMapper.h>
+#import <ShazamInsights/SQRegion.h>
+#import <ShazamInsights/SQMediaItemDiscovery.h>
+#import <ShazamInsights/SQPool.h>
+#import <ShazamInsights/SQProfile.h>
+#import <ShazamInsights/SQRegionQuery.h>
+#import <ShazamInsights/SQQueryProvider.h>
+#import <ShazamInsights/SQDiscoveryServerResponseParser.h>
+#import <ShazamInsights/SQPoolClustersProvider.h>
+#import <ShazamInsights/SQNetworkRequester.h>
+#import <ShazamInsights/SQPoolQuery.h>
+#import <ShazamInsights/SQSimilarityClusterQuery.h>
+#import <ShazamInsights/SQGenre.h>
+#import <ShazamInsights/SQMediaItem.h>
+#import <ShazamInsights/SQQuery.h>
+#import <ShazamInsights/SQSimilarityCluster.h>

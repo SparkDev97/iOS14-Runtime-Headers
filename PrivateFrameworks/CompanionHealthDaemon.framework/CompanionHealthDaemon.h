@@ -1,0 +1,10 @@
+#import <CompanionHealthDaemon/CHCompanionWorkoutCreditManagerInterval.h>
+#import <CompanionHealthDaemon/CHCoachingDiagnosticManager.h>
+#import <CompanionHealthDaemon/CHCompanionWidgetSchedulingManager.h>
+#import <CompanionHealthDaemon/CHCoachingDiagnosticData.h>
+#import <CompanionHealthDaemon/CHTrendsNotificationManager.h>
+#import <CompanionHealthDaemon/CHCompanionWorkoutCreditManager.h>
+#import <CompanionHealthDaemon/CHCoachingDiagnosticSubmittableMetrics.h>
+#import <CompanionHealthDaemon/CHFitnessAppBadgeManager.h>
+#import <CompanionHealthDaemon/CHCoachingDiagnosticDataItem.h>
+#import <CompanionHealthDaemon/CHActivityApplicationInstallationManager.h>

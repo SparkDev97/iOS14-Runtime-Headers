@@ -1,0 +1,15 @@
+#import <Pasteboard/PBItemRepresentation.h>
+#import <Pasteboard/PBSecurityScopedURLWrapper.h>
+#import <Pasteboard/PBServerConnection.h>
+#import <Pasteboard/PBKeyedUnarchiver.h>
+#import <Pasteboard/PBCallbackSerialization.h>
+#import <Pasteboard/PBItem.h>
+#import <Pasteboard/PBItemCollectionServicer.h>
+#import <Pasteboard/PBItemDetection.h>
+#import <Pasteboard/PBItemCollection.h>
+#import <Pasteboard/PBCoercionRegistry.h>
+#import <Pasteboard/PBObjectToRepresentationCoercion.h>
+#import <Pasteboard/PBRepresentationToObjectCoercion.h>
+#import <Pasteboard/PBObjectToObjectCoercion.h>
+#import <Pasteboard/PBDataTransferRequest.h>
+#import <Pasteboard/PBDataTransferMonitor.h>

@@ -1,0 +1,15 @@
+#import <SPFinder/SPEstimatedLocation.h>
+#import <SPFinder/SPBeaconPayload.h>
+#import <SPFinder/SPAdvertisement.h>
+#import <SPFinder/SPScheduler.h>
+#import <SPFinder/SPBeaconPayloadCacheSearchCriteria.h>
+#import <SPFinder/SPBeaconAdvertisement.h>
+#import <SPFinder/SPAdvertisementCacheSearchResult.h>
+#import <SPFinder/SPSchedulerInformation.h>
+#import <SPFinder/SPFinderStateManager.h>
+#import <SPFinder/SPSearchResultMarker.h>
+#import <SPFinder/SPFinderInterface.h>
+#import <SPFinder/SPBeaconPayloadCacheSearchResult.h>
+#import <SPFinder/SPFinderStateInfo.h>
+#import <SPFinder/SPAdvertisementCacheSearchCriteria.h>
+#import <SPFinder/SPAdvertisementCache.h>

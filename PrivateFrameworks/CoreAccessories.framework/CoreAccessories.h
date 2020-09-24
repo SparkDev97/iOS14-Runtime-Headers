@@ -1,0 +1,10 @@
+#import <CoreAccessories/ACCTransportPlugin.h>
+#import <CoreAccessories/ACCConnectionInfo.h>
+#import <CoreAccessories/_ACCExternalAccessoryInfo.h>
+#import <CoreAccessories/ACCExternalAccessoryProvider.h>
+#import <CoreAccessories/ACCUserDefaults.h>
+#import <CoreAccessories/ACCCarPlay.h>
+#import <CoreAccessories/ACCTransportClientBridge.h>
+#import <CoreAccessories/ACCAppLinksIconInfo.h>
+#import <CoreAccessories/ACCTransportClient.h>
+#import <CoreAccessories/ACCHWComponentAuth.h>
